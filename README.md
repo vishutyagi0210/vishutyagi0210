@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Vishal Tyagi</h1>
-<h3 align="center">Technical enthusiast | Technical writer | Top Cloud Computing Voice on LinkedIn</h3>
+<h3 align="center">Technical enthusiast | Technical writer</h3>
 
 - 🔭 I'm currently working on [Tiplink](https://github.com/code100x/tiplink)
 - 🌱 I'm currently learning **Devops**
